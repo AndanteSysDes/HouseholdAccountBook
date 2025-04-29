@@ -45,15 +45,6 @@ cd HouseholdAccountBook
 
 ---
 
-## 📷 Skärmdumpar
-
-(*Ersätt med faktiska skärmdumpar för bättre intryck*)
-
-| Hem | Inmatning | Sammanställning |
-|-----|-----------|-----------------|
-| ![home](your_image_url) | ![input](your_image_url) | ![summary](your_image_url) |
-
----
 
 ## ✨ Höjdpunkter
 
