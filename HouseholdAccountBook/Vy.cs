@@ -60,7 +60,7 @@ namespace HouseholdAccountBook
             Console.WriteLine("  3. Inkomst listan");
             Console.WriteLine("  4. Årlig utgift och inkomst listan");
             Console.WriteLine("  5. Månatlig utgift och inkomst listan");
-            Console.WriteLine("  6. Daglig tgift och inkomst listan");
+            Console.WriteLine("  6. Daglig utgift och inkomst listan");
             Console.WriteLine(" ");
             Console.WriteLine("  9. Tillbaka till huvudmenyn ");
             Console.WriteLine("-".PadLeft(LinjeLangd, '-'));

@@ -555,9 +555,11 @@ namespace HouseholdAccountBook
                     }
                 }
 
-                lista.Sort((a, b) => a.Id - b.Id);
 
-                senasteId = lista[lista.Count - 1].Id;
+                if(lista.Count > 0) {
+                    lista.Sort((a, b) => a.Id - b.Id);
+                    senasteId = lista[lista.Count - 1].Id;
+                }
 
             }
 
