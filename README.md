@@ -1,5 +1,8 @@
 # 💰 HouseholdAccountBook
 
+> 🇯🇵 [日本語版はこちら (README.ja.md)](README.ja.md)  
+> 🇸🇪 [Svensk version (README.sv.md)](README.sv.md)
+
 **HouseholdAccountBook** is a simple household accounting desktop application built with WPF in C#.  
 It was originally developed as a school assignment and later improved for job-hunting purposes.
 
